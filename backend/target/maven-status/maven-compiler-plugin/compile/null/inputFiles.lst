@@ -1,0 +1,15 @@
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\config\MongoIndexInitializer.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\config\RateLimiter.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\AuthResponse.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\ForgotPasswordRequest.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\LoginRequest.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\QuestionDTO.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\QuizSubmission.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\ResetPasswordRequest.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\ScoreResultDTO.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\dto\SignupRequest.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\model\Question.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\model\ScoreEntry.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\model\User.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\resource\AuthResource.java
+C:\RMC\task2-quiz-leaderboard-COMBINED\task2-quiz-leaderboard\backend\src\main\java\com\club\quiz\resource\QuizResource.java

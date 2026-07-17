@@ -1,0 +1,17 @@
+com\club\quiz\dto\LoginRequest.class
+com\club\quiz\dto\ForgotPasswordRequest.class
+com\club\quiz\dto\AuthResponse.class
+com\club\quiz\model\Question.class
+com\club\quiz\model\User.class
+com\club\quiz\dto\ScoreResultDTO.class
+com\club\quiz\config\MongoIndexInitializer.class
+com\club\quiz\dto\QuestionDTO$OptionDTO.class
+com\club\quiz\resource\QuizResource.class
+com\club\quiz\dto\QuizSubmission.class
+com\club\quiz\config\RateLimiter.class
+com\club\quiz\dto\QuestionDTO.class
+com\club\quiz\dto\ResetPasswordRequest.class
+com\club\quiz\dto\ScoreResultDTO$QuestionReview.class
+com\club\quiz\model\ScoreEntry.class
+com\club\quiz\resource\AuthResource.class
+com\club\quiz\dto\SignupRequest.class
